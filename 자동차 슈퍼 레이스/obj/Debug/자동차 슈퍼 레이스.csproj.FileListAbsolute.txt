@@ -1,0 +1,10 @@
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\bin\Debug\자동차 슈퍼 레이스.exe.config
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\bin\Debug\자동차 슈퍼 레이스.exe
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\bin\Debug\자동차 슈퍼 레이스.pdb
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\obj\Debug\자동차 슈퍼 레이스.csproj.AssemblyReference.cache
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\obj\Debug\자동차_슈퍼_레이스.Form1.resources
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\obj\Debug\자동차_슈퍼_레이스.Properties.Resources.resources
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\obj\Debug\자동차 슈퍼 레이스.csproj.GenerateResource.cache
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\obj\Debug\자동차 슈퍼 레이스.csproj.CoreCompileInputs.cache
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\obj\Debug\자동차 슈퍼 레이스.exe
+C:\Users\hayay\OneDrive\바탕 화면\자동차 슈퍼 레이스\obj\Debug\자동차 슈퍼 레이스.pdb
